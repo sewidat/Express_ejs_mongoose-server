@@ -5,7 +5,7 @@ after downloading the script
 in your terminal cd to where you downloded the file then enter this:
 ```sh
 $ chmod +x serverCreateion.sh
-$ ./serverCreateion.sh <> <NAME OF THE DATABASE YOU WANT TO USE>
+$ ./serverCreateion.sh <FULL PATH WHERE YOU WANT TO CREATE SERVER FOLDER> <NAME OF THE DATABASE YOU WANT TO USE>
 ```
 so you can use it every time you want to make a new server 
 ### Note:
