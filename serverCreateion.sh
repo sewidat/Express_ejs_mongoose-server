@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 mkdir $1
-cd $PWD/$1
+cd $1
 touch app.js
 npm init -y
 npm i express body-parser ejs mongoose
