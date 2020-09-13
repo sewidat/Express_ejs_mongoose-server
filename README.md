@@ -1,7 +1,7 @@
 # Express_ejs_mongoose-server Creation
 Use This is a bash Script to create a new server in Express_ejs_mongoose.
 ### How to use:
-after downloading the script 
+after downloading and extarcting the script 
 in your terminal cd to where you downloded the file then enter this:
 ```sh
 $ chmod +x serverCreateion.sh
